@@ -84,7 +84,7 @@ RAG-ChatBot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/eziyoo/RAG-ChatBot.git
+git clone https://github.com/Farshad-Farahtaj/RAG-ChatBot.git
 cd RAG-ChatBot
 ```
 
